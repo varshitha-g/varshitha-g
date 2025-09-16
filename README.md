@@ -570,7 +570,6 @@
                                     <span class="coursework-tag">Computer Networks</span>
                                 </div>
                             </div>
-                            
                         </div>
                     </div>
                 </div>
@@ -770,7 +769,7 @@
                 <h2>Let's Build Something Amazing Together</h2>
                 <p>Ready to transform your data challenges into business victories? With experience across healthcare (CloudEnd Platform), customer analytics (Knowledge Solutions), and enterprise logistics (FedEx), I bring diverse industry insights to every data engineering challenge.</p>
                 <div class="contact-links">
-                    <a href="mailto:varshithag1908@gmail.com" class="contact-link">📧 Email Me</a>
+                    <a href="mailto:varshithag1908@gmail.com" class="contact-link">Email Me</a>
                     <a href="tel:+15185287072" class="contact-link">Call Me</a>
                     <a href="https://linkedin.com/in/your-profile" class="contact-link">LinkedIn</a>
                     <a href="https://github.com/varshitha-g" class="contact-link">GitHub</a>
