@@ -1,6 +1,6 @@
 # Hi there, I'm Varshitha! 👋
 
-## 🚀 Data Engineer | Cloud Architecture Enthusiast | ML Pipeline Builder
+##  Data Engineer | Cloud Architecture Enthusiast | ML Pipeline Builder
 
 > *Turning complex data challenges into scalable business solutions across Fortune 500 companies*
 
@@ -8,16 +8,16 @@ I'm a passionate Data Engineer with 4+ years of experience building enterprise-s
 
 ---
 
-### 🎯 What I'm Currently Working On
+###  What I'm Currently Working On
 
-- - Building scalable ETL pipelines at **FedEx** processing 10M+ daily logistics transactions
-- - Exploring advanced MLOps practices and real-time streaming architectures
-- - Completing my MS in Data Science at University at Albany (May 2025)
-- - Contributing to open-source data engineering tools
+-  Building scalable ETL pipelines at **FedEx** processing 10M+ daily logistics transactions
+-  Exploring advanced MLOps practices and real-time streaming architectures
+-  Completing my MS in Data Science at University at Albany (May 2025)
+-  Contributing to open-source data engineering tools
 
 ---
 
-### 💻 My Tech Stack
+###  My Tech Stack
 
 **Languages & Processing**
 ```
@@ -117,11 +117,11 @@ graph LR
 
 ### 🎯 Fun Facts
 
-- - Built data pipelines spanning 190+ countries
-- - Optimized systems processing 10M+ daily records
-- - Worked with sensitive healthcare data (HIPAA-compliant)
-- - Reduced processing times by up to 80% across multiple projects
-- - Maintaining full academic scholarship while working full-time
+-  Built data pipelines spanning 190+ countries
+-  Optimized systems processing 10M+ daily records
+-  Worked with sensitive healthcare data (HIPAA-compliant)
+-  Reduced processing times by up to 80% across multiple projects
+-  Maintaining full academic scholarship while working full-time
 
 ---
 
