@@ -50,7 +50,7 @@ Lambda        Blob Storage   Dataflow
 ```python
 class DataEngineer:
     def __init__(self):
-        self.experience = "3+ years"
+        self.experience = "3 years"
         self.companies = ["FedEx", "Knowledge Solutions", "CloudEnd Platform"]
         self.pipelines_built = "Enterprise-scale ETL systems"
         self.daily_records_processed = "10M+"
