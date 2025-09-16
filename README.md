@@ -4,7 +4,7 @@
 
 > *Turning complex data challenges into scalable business solutions across Fortune 500 companies*
 
-I'm a passionate Data Engineer with 4+ years of experience building enterprise-scale data infrastructure that processes millions of records daily. I love creating elegant solutions that don't just work—they work beautifully at scale.
+I'm a passionate Data Engineer with 3 years of experience building enterprise-scale data infrastructure that processes millions of records daily. I love creating elegant solutions that don't just work—they work beautifully at scale.
 
 ---
 
@@ -34,13 +34,13 @@ Lambda        Blob Storage   Dataflow
 
 **Data Engineering Tools**
 ```
-🔄 Apache Airflow    📊 Databricks       🏗️ Delta Lake
-🗄️ Snowflake        📈 Great Expectations 🔒 Unity Catalog
+ Apache Airflow     Databricks        Delta Lake
+ Snowflake         Great Expectations  Unity Catalog
 ```
 
 **DevOps & Visualization**
 ```
-🐳 Docker    🏗️ Terraform    📊 Power BI    📈 Tableau
+ Docker     Terraform     Power BI     Tableau
 ```
 
 ---
