@@ -1,4 +1,4 @@
-# Hi, I'm Varshitha Gudimalla 👋
+# Hi, I'm Varshitha G 👋
 
 ## Data Engineer | Python | SQL | PySpark | AWS | Databricks
 
